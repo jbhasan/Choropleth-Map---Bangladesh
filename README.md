@@ -88,5 +88,5 @@ Otherwise, see examples in the `/index.html` file.
 
 ## Map Showcase
 
-![Sample View](https://github.com/jbhasan/Choropleth-Map---Bangladesh/blob/main/sample.jpg?raw=true)
+![Sample View](https://github.com/jbhasan/Choropleth-Map---Bangladesh/blob/main/assets/sample.png?raw=true)
 
