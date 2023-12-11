@@ -88,7 +88,5 @@ Otherwise, see examples in the `/index.html` file.
 
 ## Map Showcase
 
-![World Cup 2014 Players' Birth Countries](https://i.imgur.com/RJbkFEH.png)
+![Sample View](https://github.com/jbhasan/Choropleth-Map---Bangladesh/blob/main/sample.jpg?raw=true)
 
-The map above, showing [birth countries of Football World Cup 2014 players](https://maps.ramiro.org/world-cup-2014-players-birth-countries/),
-was created with d3-geomap. You can find more [example maps here](https://ramiro.org/maps/).
